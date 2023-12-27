@@ -38,6 +38,7 @@ background:transparent;
 padding:10px;
 font-weight:14px;
 }
+
 button{
     border:none;
     outline:none;
@@ -68,8 +69,8 @@ border-radius:50%;
 background-image:url('unchecked.png');
 background-size: cover;
 background-position: center;
-top:12px;
-left:8px;
+top:10px;
+left:7px;
 }
 
 ul li.checkbox{
