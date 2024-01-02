@@ -1,3 +1,6 @@
+//  Author
+// Description: This is the Javascript file for the to-do list project 
+
 const inputBox = document.getElementById("inputbox");
 const listContainer = document.getElementById("lists");
 
